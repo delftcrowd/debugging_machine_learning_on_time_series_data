@@ -1,5 +1,5 @@
 
-### Due to the size limit, all sildes will be shared with Google Cloud
+### Due to the size limit, all sildes will be shared with Google Drive
 
 - Link to Google Drive:
 
