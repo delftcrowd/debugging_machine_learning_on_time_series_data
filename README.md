@@ -6,7 +6,7 @@
 - academic year: 2022
 
 ### Introduction
-_brief introduction of the project_
+_brief introduction of the project_:
 This project aims to identify and characterize time-serial-based ML unknowns.
 
 
